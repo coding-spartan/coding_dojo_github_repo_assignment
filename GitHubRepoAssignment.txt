@@ -1,0 +1,11 @@
+Assignment to practice creating a local repository then connecting to GitHub
+
+created folder  mkdir 
+initialized repository git init
+added repo in GitHub
+copied and pasted link
+git add .
+git commit -m 'first commit"
+git push -u origin master
+git status
+
